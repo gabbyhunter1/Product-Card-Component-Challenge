@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (hhttps://www.frontendmentor.io/solutions/product-preview-card-component-challenge-omAvrtHTdI)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-component-challenge-omAvrtHTdI)
 - Live Site URL: (https://gabbyhunter1.github.io/Product-Card-Component-Challenge/)
 
 ## My process
