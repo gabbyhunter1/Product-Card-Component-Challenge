@@ -106,7 +106,6 @@ body {
 
   display: grid;
   place-content: center;
-  margin: 1rem;
 }
 
 .card {
