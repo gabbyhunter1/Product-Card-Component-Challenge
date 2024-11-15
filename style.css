@@ -13,6 +13,7 @@
   --fw-bold: 700;
 }
 
+/* A (more) Modern CSS Reset */
 *,
 *::before,
 *::after {
@@ -76,6 +77,8 @@ select {
 :target {
   scroll-margin-block: 5ex;
 }
+
+/* styling */
 
 body {
   font-family: var(--ff-regular);
